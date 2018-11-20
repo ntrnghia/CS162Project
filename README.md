@@ -5,3 +5,5 @@ Each use-cases have exclusive interactions and functions in application.
 In particular, academic staffs are able to import course, student lists, schedules;
 Teachers can import scores;
 Students can view score or check attendance.
+Build(command line): g++ -o cs162project source.cpp function.cpp
+Run: cs162project.exe
